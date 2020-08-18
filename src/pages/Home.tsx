@@ -7,9 +7,9 @@ export const Home = factory(function Home() {
 	return (
 		<div classes={css.root}>
 			<head>
-				<title>Tom Dye</title>
+				<title>Static Type</title>
 			</head>
-			<h1>Hello, World</h1>
+			<h1>Hello, Static Type World</h1>
 		</div>
 	);
 });
